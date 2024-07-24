@@ -22,4 +22,4 @@ This extension modifies the current tab's URL to help you bypass paywalls for ne
 
 1. Click on the extension icon in the Chrome toolbar to open the popup.
 2. Click the "Modify URL" button.
-3. The current tab's URL will be modified to help bypass the paywall and a new tab will be opened with the modified URL.
+3. Voila, now you have the full article without the paywall!
