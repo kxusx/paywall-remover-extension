@@ -4,7 +4,6 @@ document.getElementById('modifyUrlButton').addEventListener('click', () => {
       if (activeTab.url) {
         // Modify the URL as needed
         let newUrl = modifyUrl(activeTab.url);
-  
         // Open the new tab with the modified URL
         chrome.tabs.create({ url: newUrl });
       }
