@@ -14,6 +14,8 @@ document.getElementById('modifyUrlButton').addEventListener('click', () => {
   function modifyUrl(url) {
     // Modify the URL as needed. Example: add a query parameter
     let newUrl = new URL(url);
+    // add https://12ft.io/ to the beginning of the URL
+    newUrl = new URL('https://12ft.io/' + newUrl);
     newUrl.searchParams.set('modified', 'true');
     return newUrl.toString();
   }
