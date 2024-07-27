@@ -1,9 +1,9 @@
 
 ## Overview
 
-As an avid news reader, I was regularly bummed out by paywalls. Copying links and pasting them into different websites to bypass these paywalls was a hassle. I couldn't find any other extension that works for Medium articles as well as for news articles paywall removal, so I decided to create one.
+As an avid news and medium articles reader, I was regularly bummed out by paywalls. Copying links and pasting them into different websites to bypass these paywalls was a hassle. I couldn't find any other extension that works for Medium articles as well as for news articles paywall removal, so I decided to create one.
 
-This extension modifies the current tab's URL to help you bypass paywalls for news articles and Medium articles with just a click. No unnecessary data is asked from you.
+This extension helps you bypass paywalls for news articles and Medium articles with just a click. No unnecessary data is asked from you.
 
 ## Features
 
